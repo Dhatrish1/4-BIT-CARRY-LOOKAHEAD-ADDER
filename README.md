@@ -1,24 +1,31 @@
 WEEK 1 constitues of the literature survey to decide the topic and then specifying the characteristics or the constraints of the circuit to be made.
 
-    ![IMG_20210813_225623](https://user-images.githubusercontent.com/27013795/129397328-250be13b-6c43-43eb-a9e0-77568128c2eb.jpg)
+    [
+![IMG_20210813_225623](https://user-images.githubusercontent.com/27013795/129400267-69b05c38-31d6-4801-b924-852b196edfd2.jpg)
+](url)
+    
     
     Operating modes of the IP is specified:
-    ![IMG_20210813_225639](https://user-images.githubusercontent.com/27013795/129397468-ee32b1ce-32fc-488f-b99e-6a8997351e49.jpg)
+  [ ![IMG_20210813_225639](https://user-images.githubusercontent.com/27013795/129400648-89fbc015-28b4-4efd-9024-23240cf02ae8.jpg)
+  ](url)
     
     Application of the IP is specified:
-    ![IMG_20210813_225655](https://user-images.githubusercontent.com/27013795/129397487-61f15b24-b093-4635-bae3-3058cf5c559b.jpg)
+  [ ![IMG_20210813_225655](https://user-images.githubusercontent.com/27013795/129397487-61f15b24-b093-4635-bae3-3058cf5c559b.jpg)
+    ](url)
     
     Rectification of the errors given in the feedback.
-    ![IMG_20210813_225711](https://user-images.githubusercontent.com/27013795/129397942-1f0c09ca-5daf-4ead-ad51-c92330bed795.jpg)
-
+  [ ![IMG_20210813_225711](https://user-images.githubusercontent.com/27013795/129397942-1f0c09ca-5daf-4ead-ad51-c92330bed795.jpg)
+    ](url)
 
 WEEK 2 constitutes of the making of the verilog file of the IP:
     
     RTL Code and the Testbench:
-    [rtl codetb.pdf](https://github.com/Dhatrish1/4-BIT-CARRY-LOOKAHEAD-ADDER/files/6984235/rtl.codetb.pdf)
+  [  [rtl codetb.pdf](https://github.com/Dhatrish1/4-BIT-CARRY-LOOKAHEAD-ADDER/files/6984235/rtl.codetb.pdf)
+    ](url)
     
     Waveforms:
-    ![image](https://user-images.githubusercontent.com/27013795/129398198-95c9217f-c65c-4613-98fc-5adea6579d4a.png)
+  [ ![image](https://user-images.githubusercontent.com/27013795/129398198-95c9217f-c65c-4613-98fc-5adea6579d4a.png)
+    ](url)
 
 
 WEEK 3 constitutes of the download and installation of the different tools:
